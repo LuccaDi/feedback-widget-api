@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Feedget 🚀</h1>
 
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/LuccaDi/feedback-widget-api?color=831D1C">
+  <img alt="GitHub" src="https://img.shields.io/github/license/LuccaDi/feedback-widget-api?color=%23831D1C">
   <img  alt="Principal linguagem do projeto"  src="https://img.shields.io/github/languages/top/LuccaDI/feedback-widget-api?color=%23831D1C">
   <img  alt="Quantidade de linguagens utilizadas"  src="https://img.shields.io/github/languages/count/LuccaDI/feedback-widget-api?color=%23831D1C">
 </p>
